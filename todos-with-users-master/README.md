@@ -284,3 +284,4 @@ As a part of the installation process, NPM installed Karma for unit testing. Run
 
 Now that you've implemented a Todo application, you can build your own. Simply sign-up at [Backand's website](https://wwww.backand.com) and create a new app to get started!
 
+///note to self doing this in private repo
